@@ -21,7 +21,7 @@ Welcome to your premier destination for all your real estate needs, built using 
    
 3) setup env file and firebase
   
-4) Use "nodemon index.js" and "npm run dev" for client and api  
+4) Use "nodemon index.js" and "npm run dev" for api and client  
    
 
 
