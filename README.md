@@ -1,5 +1,4 @@
 Welcome to your premier destination for all your real estate needs, built using the powerful MERN stack 
-
 (MongoDB, Express.js, React, and Node.js).
 
 
